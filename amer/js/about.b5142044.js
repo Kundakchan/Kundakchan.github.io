@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{dda8:function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about"},[n("h1",[e._v("Error")])])}],s={name:"error"},u=s,c=n("2877"),l=Object(c["a"])(u,r,a,!1,null,null,null);t["default"]=l.exports}}]);
-//# sourceMappingURL=about.62093c7f.js.map
+//# sourceMappingURL=about.b5142044.js.map
